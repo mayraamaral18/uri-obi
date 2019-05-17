@@ -3,8 +3,8 @@ by Mayra Amaral
 
 Lista 1 questões:
 
-ex1: 1001;
-ex2: 1002;
-ex3: 2780;
-ex4: 2454;
-ex5: 1051.
+* ex1: 1001;
+* ex2: 1002;
+* ex3: 2780;
+* ex4: 2454;
+* ex5: 1051.
