@@ -1,2 +1,2 @@
-# URI Questions for OBI Exam
-Resolutions of URI's questions for OBI training during the OBI Project made by UFPB students and teacher Lincoln David.
+# Resolução de questões do URI Online Judge para treinar para a prova da OBI
+by Mayra Amaral
