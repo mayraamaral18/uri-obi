@@ -1,5 +1,6 @@
 # Resolução de questões do URI Online Judge para treinar para a prova da OBI
 Resolução feita em Python 3.
+
 Questões organizadas pelo prof. Lincoln David - UFPB.
 
 Lista 1 questões:
